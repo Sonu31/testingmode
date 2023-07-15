@@ -58,7 +58,8 @@ class MainActivity : AppCompatActivity() {
             viewModel.add(blog)
             txtplce.text.clear()
             mainrecycler.adapter?.notifyDataSetChanged()
-
+sdfsdnkk
+            git
         }
 
     }
