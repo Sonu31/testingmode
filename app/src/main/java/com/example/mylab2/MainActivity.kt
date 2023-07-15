@@ -60,6 +60,9 @@ class MainActivity : AppCompatActivity() {
             mainrecycler.adapter?.notifyDataSetChanged()
 sdfsdnkk
             git
+
+
+
         }
 
     }
